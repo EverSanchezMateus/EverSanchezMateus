@@ -1,6 +1,6 @@
-<h1 align="center"style="color:#007ACC;">Ever Sánchez Mateus</h1>
+<h1 align="center" style="color:#007ACC;">Ever Sánchez Mateus</h1>
 
-<p align="center">
+<p align="center" style="color:#6C757D;">
 💻 Desarrollador de software | 🚀 Gestor de proyectos tecnológicos | 🧠 Solucionador de problemas
 </p>
 
