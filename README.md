@@ -36,7 +36,7 @@ Enfocado en transformar requerimientos complejos en soluciones funcionales, con 
 
 ---
 
-##🔧 Frameworks y Herramientas
+## 🔧 Frameworks y Herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -49,7 +49,7 @@ Enfocado en transformar requerimientos complejos en soluciones funcionales, con 
 
 ---
 
-##📌 Enfoque Técnico
+## 📌 Enfoque Técnico
 
 - Desarrollo de aplicaciones web modernas
 - Integración de APIs y servicios cloud
@@ -60,7 +60,7 @@ Enfocado en transformar requerimientos complejos en soluciones funcionales, con 
 
 ---
 
-##🚀 Proyectos Representativos
+## 🚀 Proyectos Representativos
 
 **Sistema de Gestión de Eventos**
 - Arquitectura modular
