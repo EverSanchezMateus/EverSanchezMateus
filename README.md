@@ -1,11 +1,12 @@
-<h1 align="center">Ever Sánchez Mateus</h1>
+<h1 align="center"style="color:#007ACC;">Ever Sánchez Mateus</h1>
 
 <p align="center">
-  <strong>Ingeniero de Sistemas · Software Engineer · Cloud-Oriented Development</strong>
+💻 Desarrollador de software | 🚀 Gestor de proyectos tecnológicos | 🧠 Solucionador de problemas
 </p>
 
 <p align="center">
-  Construcción de soluciones de software escalables, mantenibles y alineadas al negocio
+Soy desarrollador de software con enfoque en **aplicaciones web modernas**, integración de servicios en la nube y **gestión de proyectos informáticos**. Me especializo en construir soluciones escalables, seguras y orientadas a resultados reales.
+
 </p>
 
 ---
@@ -35,7 +36,7 @@ Enfocado en transformar requerimientos complejos en soluciones funcionales, con 
 
 ---
 
-## Frameworks y Herramientas
+##🔧 Frameworks y Herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -48,7 +49,7 @@ Enfocado en transformar requerimientos complejos en soluciones funcionales, con 
 
 ---
 
-## Enfoque Técnico
+##📌 Enfoque Técnico
 
 - Desarrollo de aplicaciones web modernas
 - Integración de APIs y servicios cloud
@@ -59,7 +60,7 @@ Enfocado en transformar requerimientos complejos en soluciones funcionales, con 
 
 ---
 
-## Proyectos Representativos
+##🚀 Proyectos Representativos
 
 **Sistema de Gestión de Eventos**
 - Arquitectura modular
@@ -73,19 +74,9 @@ Enfocado en transformar requerimientos complejos en soluciones funcionales, con 
 
 ---
 
-## Métricas de GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true&rank_icon=github"/>
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact"/>
-</p>
-
----
-
-## Contacto Profesional
+## 📫 Contacto Profesional
 
 - LinkedIn: [https://www.linkedin.com/in/tu-linkedin  ](https://www.linkedin.com/in/ever-sanchez-mateus-b171b0274/)
 - Email: eversanchezmateus@gmail.com
