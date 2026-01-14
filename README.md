@@ -78,7 +78,7 @@ Enfocado en transformar requerimientos complejos en soluciones funcionales, con 
 
 ## 📫 Contacto Profesional
 
-- LinkedIn: [https://www.linkedin.com/in/tu-linkedin  ](https://www.linkedin.com/in/ever-sanchez-mateus-b171b0274/)
+- LinkedIn: https://www.linkedin.com/in/ever-sanchez-mateus-b171b0274/
 - Email: eversanchezmateus@gmail.com
 
 ---
