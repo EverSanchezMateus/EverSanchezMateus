@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-Soy desarrollador de software con enfoque en **aplicaciones web modernas**, integración de servicios en la nube y **gestión de proyectos informáticos**. Me especializo en construir soluciones escalables, seguras y orientadas a resultados reales.
+👤 Soy desarrollador de software con enfoque en **aplicaciones web modernas**, integración de servicios en la nube y **gestión de proyectos informáticos**. Me especializo en construir soluciones escalables, seguras y orientadas a resultados reales.
 
 </p>
 
 ---
 
-## Perfil
+## 🧑‍💻 Perfil
 
 Ingeniero de Sistemas con experiencia en desarrollo de software, integración de servicios en la nube y gestión de proyectos tecnológicos. Trabajo bajo principios de ingeniería de software, priorizando calidad, seguridad, escalabilidad y claridad técnica.
 
@@ -19,7 +19,7 @@ Enfocado en transformar requerimientos complejos en soluciones funcionales, con 
 
 ---
 
-## Lenguajes
+## 💻 Lenguajes
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-2B5B84?style=flat-square&logo=python&logoColor=white"/>
@@ -36,7 +36,7 @@ Enfocado en transformar requerimientos complejos en soluciones funcionales, con 
 
 ---
 
-## 🔧 Frameworks y Herramientas
+## ⚙️ Frameworks y Herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -49,7 +49,7 @@ Enfocado en transformar requerimientos complejos en soluciones funcionales, con 
 
 ---
 
-## 📌 Enfoque Técnico
+## 🛠️ Enfoque Técnico
 
 - Desarrollo de aplicaciones web modernas
 - Integración de APIs y servicios cloud
